@@ -1,2 +1,2 @@
 console.log('Config.js');
-console.log('This is version 2 ');
+console.log('Version is updarted to 3');
